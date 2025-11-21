@@ -1,0 +1,42 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #333;
+  text-align: center;
+}
+
+.hero {
+  padding: 50px 20px;
+  background-color: #f7f7f7;
+  border-bottom: 1px solid #ddd;
+}
+
+.hero-img {
+  width: 280px;
+  border-radius: 12px;
+}
+
+.section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+  text-align: left;
+}
+
+.content-img {
+  width: 100%;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+footer {
+  padding: 20px;
+  background: #eee;
+  margin-top: 50px;
+}
